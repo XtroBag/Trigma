@@ -385,5 +385,5 @@ client.on('message', message => {
 
 
 
-client.login("ODM2Mzk1NDY0NDYyNjk2NDY4.YIdX-g.Id35o2HayhR54W8iy79qssTz8fQ"
+client.login("YOUR TOKEN HERE!"
 )
